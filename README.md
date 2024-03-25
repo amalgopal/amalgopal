@@ -10,7 +10,7 @@
  
  ## Skills
 <div style="display: inline_block"><br>
-  <img height="40" align="center" alt="Aswin-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+  <img height="40" align="center" alt="Aswin-Ruby" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F14068%2Fflutter&psig=AOvVaw160AOVWinvAdztfXmqplNc&ust=1711431748653000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLi5pp3ajoUDFQAAAAAdAAAAABAJ">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Aswin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
